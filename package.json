@@ -1,0 +1,14 @@
+{
+    "name": "typings",
+    "version": "1.0.0",
+    "description": "Monorepo for TypeScript definitions",
+    "license": "MIT",
+    "author": "Oliver Paschke <oliver.paschke@bytro.com>",
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bytro/typings.git"
+    },
+    "scripts": {},
+    "dependencies": {}
+}
