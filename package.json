@@ -1,6 +1,6 @@
 {
     "name": "typings",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Monorepo for TypeScript definitions",
     "license": "MIT",
     "author": "Oliver Paschke <oliver.paschke@bytro.com>",
